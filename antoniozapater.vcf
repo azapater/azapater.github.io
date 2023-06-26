@@ -11,12 +11,13 @@ TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:antonio.zapater@embarcadero.com
 URL;TYPE=Digital Business Card:
-URL:
+URL:https://blogs.embarcadero.com/author/antonio-zapater/
 URL;TYPE=Calendar:https://calendly.com/antonio-zapater/30min
-URL;TYPE=Twitter:https://twitter.com/antoniozapater
+URL;TYPE=Website:https://blogs.embarcadero.com/author/antonio-zapater/
+URL;TYPE=LinkedIn:https://linkedin.com/azapater
 URL;TYPE=GitHub:https://github.com/azapater
-URL;TYPE=YouTube:https://youtube.com/EmbarcaderoTech
+URL;TYPE=Twitter:https://twitter.com/antoniozapater
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100730484
+UID:EnBizCard-100053879
 END:VCARD
