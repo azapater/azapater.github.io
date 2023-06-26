@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Zapater;Antonio;;;
+FN:Antonio Zapater
+ORG:Embarcadero inc.
+ADR;TYPE=WORK:
+TITLE:pre-sales consultant
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:antonio.zapater@embarcadero.com
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Calendar:https://calendly.com/antonio-zapater/30min
+URL;TYPE=Twitter:https://twitter.com/antoniozapater
+URL;TYPE=GitHub:https://github.com/azapater
+URL;TYPE=YouTube:https://youtube.com/EmbarcaderoTech
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100730484
+END:VCARD
